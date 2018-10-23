@@ -10,7 +10,10 @@ Want to roll out the ODD Office in your organization? Keep an eye on this space 
 
 * Hardware
   * Scale-out components - the desktop catalog
-* Per-box software - firmware, OS
+* Per-box software
+  * BIOS, firmware
+  * OS, drivers
+  * Apps
 * Orchestration software
 
 ## Lifecycle of the solution
@@ -23,3 +26,5 @@ Want to roll out the ODD Office in your organization? Keep an eye on this space 
 * Responding to failures
 * Upgrading hardware
 * Upgrading software
+    * OS upgrade orchestration
+    * App upgrade orchestration
