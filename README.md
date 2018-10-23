@@ -9,18 +9,18 @@ Want to roll out the ODD Office in your organization? Keep an eye on this space 
 
 ## Layers of the solution
 
-. Hardware
-  . Scale-out components - the desktop catalog
-. Per-box software - firmware, OS
-. Orchestration software
+* Hardware
+  * Scale-out components - the desktop catalog
+* Per-box software - firmware, OS
+* Orchestration software
 
 ## Lifecycle of the solution
 
-. Developing the hardware catalog
-. Installing software
-. Deployment and testing
-. Scaling out
-. Migrating users
-. Responding to failures
-. Upgrading hardware
-. Upgrading software
+* Developing the hardware catalog
+* Installing software
+* Deployment and testing
+* Scaling out
+* Migrating users
+* Responding to failures
+* Upgrading hardware
+* Upgrading software
