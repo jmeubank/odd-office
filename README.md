@@ -29,6 +29,8 @@ Want to roll out the ODD Office in your organization? Keep an eye on this space 
     * OS upgrade orchestration
     * App upgrade orchestration
 
+## App installs as image layers
+
 ## Dual system image architecture
 
 Inspired by the TR-069 architecture, a dual system image setup allows a given desktop to have an active system image that it's running at a given time, and an alternate image. This is also inspired by blue-green deployment methodologies. A boot pointer decides which system image to boot from, and the alternate image can be updated in the background while the active image is running.
